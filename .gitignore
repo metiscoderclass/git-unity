@@ -32,3 +32,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/Prefabs.meta
+Assets/Prefabs.meta
+Assets/Scenes.meta
+Assets/Prefabs.meta
